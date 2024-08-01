@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **laxmanmahto003@gmail.com**
 
-- ⚡ Fun fact **Will update soon😆**
+- ⚡ Fun fact **i think i'm best in badminton😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
