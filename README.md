@@ -1,5 +1,5 @@
 **<h1 align="center">Hi 👋, I'm Laxman Mahto</h1>
-<h3 align="center">I LOVE CODING OR CODING LOVE ME IDK HAHAHAAH</h3>
+<h3 align="center"><b>I can serve both hot meals and hot fixes!</b></h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-mahto" /> </p>
@@ -11,8 +11,6 @@
 - 💬 Ask me about **HTML,CSS,PYTHON,MYSQL**
 
 - 📫 How to reach me **laxmanmahto003@gmail.com**
-
-- ⚡ Fun fact **I can serve both hot meals and hot fixes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
