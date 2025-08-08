@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-mahto" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://x.com/sweettpotatoezz](https://x.com/sweettpotatoezz)
 
-- 💬 Ask me about **HTML,CSS,PYTHON,MYSQL**
+- 💬 Ask me about **HTML,CSS,JAVA,MYSQL**
 
 - 📫 How to reach me **laxmanmahto003@gmail.com**
 
